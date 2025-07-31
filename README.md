@@ -44,9 +44,9 @@ print(f"Permissions for '{file_path}' changed to rwxrwxr-x (775)")
 
 ## Output Example
 When the script is run, you should see this in your terminal:
-
-`Permissions for 'test.py' changed to rwxrwxr-x (775)`
-
+```python
+Permissions for 'test.py' changed to rwxrwxr-x (775)
+````
 ## Screenshot
 Below is a screenshot showing the successful execution of the Python script:
 
